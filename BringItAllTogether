@@ -1,0 +1,57 @@
+<html>
+
+  <body>
+    <h1 id = "top" align="center">
+      Bring it All Together
+    </h1>
+    <h3>
+      <center><a href="#Indie">Indie</a> &nbsp &nbsp &nbsp
+        <a href="#HipHop">Hip-Hop</a> &nbsp &nbsp &nbsp
+        <a href="#Jazz">Jazz</a>
+      </center>
+    </h3>
+
+
+    <h2 id = "Indie"> Indie
+    </h2> 1.
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Tame_Impala_-_Currents.png/220px-Tame_Impala_-_Currents.png" title="Currents" width="250" height="250" />
+    <br/>
+    <br/> 2.
+    <img src="https://images-na.ssl-images-amazon.com/images/I/71Y1bRiP80L._SY355_.jpg" title="It's Blitz!" width="250" height="250" />
+    <br/>
+    <br/>
+    <br/> 3.
+    <img src="https://s.pacn.ws/640/u7/scott-pilgrim-vs-the-world-original-soundtrack-543677.1.jpg?oybgdg" title="Scott Pilgrim vs. The World" width="250" height="250" />
+    <br/>
+    <br/>
+    <br/>
+      <a href="#Top">Top</a>
+   <h2 id = "HipHop"> Hip-Hop
+    </h2> 1.
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Kidcudimanonthemoonthelegendof.jpg/220px-Kidcudimanonthemoonthelegendof.jpg" title="Man on the Moon II" width="250" height="250" />
+    <br>
+    <br> 2.
+    <img src="https://images-na.ssl-images-amazon.com/images/I/81VcA8-kuZL._SL1500_.jpg" title="To Pimp a Butterfly" width="250" height="250" />
+    <br>
+    <br> 3.
+    <img src="https://images-na.ssl-images-amazon.com/images/I/91j5pX9RdHL._SY355_.jpg" title="The Miseducation of Lauryn Hill" width="250" height="250" />
+     <br/>
+    <br/>
+    <br/>
+      <a href="#Top">Top</a>
+   <h2 id = "Jazz"> Jazz
+    </h2>1.
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Christian_Atunde_Adjuah.jpg/220px-Christian_Atunde_Adjuah.jpg" title="Christian ATunde Adjuah" width="250" height="250" />
+    <br>
+    <br> 2.
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/MilesDavisKindofBlue.jpg/220px-MilesDavisKindofBlue.jpg" title="Kind of Blue" width="250" height="250" />
+    <br>
+    <br> 3.
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Thelonious_Himself_cover.jpg/220px-Thelonious_Himself_cover.jpg" title="Thelonious Himself" width="250" height="250" />
+      <br/>
+    <br/>
+    <br/>
+      <a href="#Top">Top</a>
+  </body>
+
+</html>
